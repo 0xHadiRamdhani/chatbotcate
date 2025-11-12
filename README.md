@@ -270,9 +270,8 @@ MIT License - lihat file [LICENSE](LICENSE) untuk detail
 ## 📞 Support
 
 Untuk pertanyaan dan support:
-- Email: support@whatsappbot.com
-- WhatsApp: +62xxx-xxxx-xxxx
-- Discord: [Join Server](https://discord.gg/whatsappbot)
+- Email: hadsxdev@gmail.com
+- Discord: [Join Server](https://discord.gg/imphnen)
 
 ## 🙏 Acknowledgments
 
