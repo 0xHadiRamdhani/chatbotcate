@@ -86,8 +86,8 @@ Bot WhatsApp dan Telegram lengkap dengan 60+ fitur yang dibangun menggunakan Gol
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/whatsapp-bot-golang.git
-cd whatsapp-bot-golang
+git clone https://github.com/0xHadiRamdhani/chatbotcate
+cd chatbotcate
 ```
 
 ### 2. Install Dependencies
