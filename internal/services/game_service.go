@@ -20,21 +20,21 @@ type GameService struct {
 
 // Khodam generator data
 var khodamList = []string{
-	"Khodam Macan Putih - Memberikan kekuatan dan keberanian",
-	"Khodam Naga Emas - Melindungi dari kejahatan dan memberikan keberuntungan",
-	"Khodam Garuda - Memberikan kebebasan dan visi yang tajam",
-	"Khodam Gajah - Memberikan kekuatan fisik dan stabilitas",
-	"Khodam Harimau - Memberikan keberanian dan kekuatan",
-	"Khodam Elang - Memberikan ketajaman mata dan kecepatan",
-	"Khodam Lumba-lumba - Memberikan kecerdasan dan kebahagiaan",
-	"Khodam Kucing - Memberikan kelincahan dan intuisi",
-	"Khodam Anjing - Memberikan kesetiaan dan perlindungan",
-	"Khodam Burung Hantu - Memberikan kebijaksanaan dan penglihatan malam",
-	"Khodam Ular - Memberikan kekuatan spiritual dan penyembuhan",
-	"Khodam Kupu-kupu - Memberikan transformasi dan keindahan",
-	"Khodam Singa - Memberikan kepemimpinan dan keberanian",
-	"Khodam Serigala - Memberikan kecerdasan dan kerja sama tim",
-	"Khodam Merak - Memberikan keindahan dan percaya diri",
+	"Laba Laba Sunda",
+	"Ambatron",
+	"Ciimut",
+	"Mahluk Hitam Legam",
+	"Sebe Teyeng",
+	"Puding coklat pak hambali",
+	"Landak jawa",
+	"Opet",
+	"Ohim",
+	"Muhammad Abudurohim",
+	"I'm a lion pizza chicken☠️",
+	"Yes King Yes King☠️",
+	"Gilang Ojol☠️",
+	"Bunda Rahma☠️",
+	"Ambatukammmm☠️",
 }
 
 var zodiacSigns = map[string]string{
